@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Admin One",
+      "email": "admin1@dishi.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Admin Two",
+      "email": "admin2@dishi.com",
+      "password": "admin456",
+      "role": "admin"
+    }
+  ]
+  

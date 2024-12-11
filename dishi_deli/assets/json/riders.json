@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Rider",
+      "email": "michael@dishi.com",
+      "password": "rider123",
+      "role": "rider"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Delivery",
+      "email": "sarah@dishi.com",
+      "password": "rider456",
+      "role": "rider"
+    }
+  ]
+  
